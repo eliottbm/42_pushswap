@@ -2,7 +2,7 @@
 
 ![42_pushswap](https://github.com/user-attachments/assets/d207d4b5-af7a-41f8-80a9-13b5c1c907c5)
 
-## Présentation du projet
+## Présentation
 Push Swap est un projet d’algorithmie de l’École 42, dont l’objectif est de développer un programme capable de trier une pile d’entiers en un minimum de coups, avec un ensemble d’opérations limitées.
 Il met l’accent sur la conception et l’implémentation d’algorithmes de tri, ainsi que sur l’analyse de leur complexité et leur optimisation.
 
