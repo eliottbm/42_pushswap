@@ -9,16 +9,16 @@ Il met l’accent sur la conception et l’implémentation d’algorithmes de tr
 ## Utilisation
 ```
 make
-# compile l'exécutable 'push_swap'
+# Compile l'exécutable 'push_swap'
 
 make bonus
-# compile l'exécutable 'checker'
+# Compile l'exécutable 'checker'
 
 ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker $ARG
 # ARG: liste de nombres à trier
-# retourne 'OK' si le tri a réussi
-# retourne 'KO' si le tri a échoué
-# retourne 'Error' si l'entrée est invalide (caractère non numérique, doublon)
+# Retourne 'OK' si le tri a réussi
+# Retourne 'KO' si le tri a échoué
+# Retourne 'Error' si l'entrée est invalide (caractère non numérique, doublon)
 
 make runtest ELM=100 RUN=50 MAX=700
 # ELM: nombre d’éléments à trier
